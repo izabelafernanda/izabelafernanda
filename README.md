@@ -12,7 +12,7 @@ My name is Izabela Fernanda, I am 21 years old, and I am currently a student in 
 
 ## 💻 Hard Skills
 
-- Languagues, Frameworks and Tools:
+- Languages, Frameworks and Tools:
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
