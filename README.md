@@ -16,7 +16,7 @@
   💼 <b>Tools:</b> React, .NET, AWS, Azure, Git, VSCode, Postman, Figma, and more.
 </p>
 
-<p align="left">
+<!--<p align="left">
   💌 <b>Contact me:</b> ⤵️
 </p>
 
