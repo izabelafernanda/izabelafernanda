@@ -5,20 +5,21 @@
   I'm 22 years old and based in <b>Belo Horizonte, MG, Brazil</b>.<br>
   I have a degree in <b>Information Systems</b> from <b>PUC Minas</b>.<br>
   <br>
-  🚀 <b>Stack:</b> Frontend: HTML5, CSS3, Bootstrap, Tailwind CSS, React.js (Redux), Vite, Figma, Adobe Photoshop | 
-  Backend & Databases: Java, C#, JavaScript, TypeScript, COBOL, Node.js, Express, .NET, .NET Core, Nest.js, PostgreSQL, MySQL, SQL Server, MongoDB, DB2, Redis, BullMQ, Kafka | 
-  Tools, DevOps & Methodologies: Docker, AWS, Postman, Swagger, Power BI, DBeaver, Git, Git Flow, Scrum, Kanban, Agile, Design Thinking, UX Research (A/B testing, interviews, heuristic analysis) | 
-  Software Engineering: Data Structures, Algorithms, Arrays, Hash Tables, Graphs, OOP, Programming Logic.
+  🚀 <b>Main stack:</b> I specialize in building modern web interfaces using React.js, Tailwind CSS, Vite, and other frontend technologies. My UX/UI workflow includes Figma and Adobe Photoshop, focusing on design systems, prototyping, and user experience best practices.
 </p>
 
 <p align="left">
-  🦄 <b>Languages & Frameworks:</b> JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, React.js (Redux), Vite, Node.js, Express, Nest.js
+  🦄 <b>Languages & Frameworks:</b> JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS, React.js (Redux), Vite, Node.js, Express, Nest.js, Java, C#, .NET, COBOL
 </p>
 
 <p align="left">
-  💼 <b>Tools & Platforms:</b> Figma, Adobe Photoshop, Docker, Postman, Swagger, DBeaver
+  💼 <b>Tools & Platforms:</b> Figma, Adobe Photoshop, Docker, AWS, Postman, Swagger, DBeaver, Git, Git Flow, Power BI, VSCode
 </p>
 
 <p align="left">
-  🗄️ <b>Databases & Queues:</b> PostgreSQL, Redis, BullMQ, Kafka
+  🗄️ <b>Databases & Queues:</b> PostgreSQL, MySQL, SQL Server, MongoDB, DB2, Redis, BullMQ, Kafka
+</p>
+
+<p align="left">
+  🧩 <b>Other Skills:</b> Scrum, Kanban, Agile, Design Thinking, UX Research (A/B testing, interviews, heuristic analysis), Data Structures, Algorithms, OOP, Programming Logic
 </p>
