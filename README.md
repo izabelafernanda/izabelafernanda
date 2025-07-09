@@ -2,9 +2,10 @@
 
 <p align="left">
   Hi! I'm <b>Izabela Fernanda</b>, a passionate developer focused on <b>Frontend Development</b> and <b>UX/UI Design</b>.<br>
-  I'm 22 years old and based in <b>Belo Horizonte, MG, Brazil</b>.<br>
-  I have a degree in <b>Information Systems</b> from <b>PUC Minas</b>.<br>
-  <br>
+  I'm 22 years old and hold a degree in <b>Information Systems</b> from <b>PUC Minas</b>.
+</p>
+
+<p align="left">
   🚀 <b>Main stack:</b> I specialize in building modern web interfaces using React.js, Tailwind CSS, Vite, and other frontend technologies. My UX/UI workflow includes Figma and Adobe Photoshop, focusing on design systems, prototyping, and user experience best practices.
 </p>
 
