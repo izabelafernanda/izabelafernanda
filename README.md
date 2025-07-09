@@ -50,18 +50,4 @@
   </a>
 </p>
 
----
 
-### 📊 Statistics
-
-<div align="center">
-  
-  <!-- WakaTime chart -->
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=izabelafernanda&bg_color=2D3748&title_color=ffffff&icon_color=2F855A&text_color=ffffff&layout=compact&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
-
-  <!-- Other stats, optional, you can enable them if you want -->
-  <!--
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=izabelafernanda&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelafernanda&layout=compact&theme=radical"/>
-  -->
-</div>
