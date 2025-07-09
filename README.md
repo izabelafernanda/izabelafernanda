@@ -1,42 +1,67 @@
-# Hi, nice to meet you! 💫
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left">
+  Hi! I'm <b>Izabela Fernanda</b>, a passionate developer focused on <b>Frontend Development</b> and <b>UX/UI Design</b>.<br>
+  I'm 22 years old and based in <b>Belo Horizonte, MG, Brazil</b>.<br>
+  I have a degree in <b>Information Systems</b> from <b>PUC Minas</b>.<br>
+  <br>
+  🚀 <b>Stack:</b> HTML5, CSS3, JavaScript, TypeScript, Dart, Java, C#, .NET, AWS, Azure, Git, Postman, Figma, and other tools from the Frontend and Design ecosystem.
+</p>
 
-## 🤓 About me
-My name is Izabela Fernanda, I am 21 years old, and I am currently a student in the Information Systems program at the Pontifical Catholic University of Minas Gerais. I use this GitHub to store my projects and learnings. 
+<p align="left">
+  🦄 <b>Languages:</b> JavaScript, TypeScript, Dart, Java, C#, HTML5, CSS3
+</p>
 
-## 🌐 Social 
-- 👆🏻 Click on the icons to connect with me:
+<p align="left">
+  💼 <b>Tools:</b> React, .NET, AWS, Azure, Git, VSCode, Postman, Figma, and more.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabelafernanda/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@izabelafernanda/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:izabelafernandacontato@gmail.com)
+<p align="left">
+  💌 <b>Contact me:</b> ⤵️
+</p>
 
+<p align="left">
+  <a href="mailto:izabelafernandacontato@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/izabelafernanda/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <!-- Add your WhatsApp if you want -->
+  <!--
+  <a href="https://api.whatsapp.com/send?phone=YOUR_NUMBER" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/>
+  </a>
+  -->
+  <!-- Add your Facebook if you want -->
+  <!--
+  <a href="https://facebook.com/YOUR_FACEBOOK" title="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/>
+  </a>
+  -->
+  <!-- Add your Instagram if you want -->
+  <!--
+  <a href="https://instagram.com/YOUR_INSTAGRAM" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
+  </a>
+  -->
+  <a href="https://discord.com/channels/@izabelafernanda/" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
-## 💻 Hard Skills
+---
 
-- Languages, Frameworks and Tools:
+### 📊 Statistics
 
+<div align="center">
+  
+  <!-- WakaTime chart -->
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=izabelafernanda&bg_color=2D3748&title_color=ffffff&icon_color=2F855A&text_color=ffffff&layout=compact&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-## 📊 GitHub Stats:
-
-- Here's what I'm working on right now:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izabelafernanda&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=izabelafernanda&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
-
+  <!-- Other stats, optional, you can enable them if you want -->
+  <!--
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=izabelafernanda&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelafernanda&layout=compact&theme=radical"/>
+  -->
+</div>
